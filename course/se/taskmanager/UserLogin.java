@@ -1,8 +1,9 @@
 package course.se.taskmanager;
 public class UserLogin {
-    private  class UserRegistration userRegistration;
+    private  UserRegistration userRegistration;
 
     public UserLogin(UserRegistration userRegistration){
+
         this.userRegistration = userRegistration;
     }
 
