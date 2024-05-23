@@ -6,7 +6,7 @@ public class UserLogin {
         this.userRegistration = userRegistration;
     }
 
-    public boolean login(String username,String password){
+    git add .    public boolean login(String username,String password){
         return userRegistration.login(username,password);
     }
 }
