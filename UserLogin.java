@@ -1,3 +1,4 @@
+package course.se.taskmanager;
 public class UserLogin {
     private  class UserRegistration userRegistration;
 
